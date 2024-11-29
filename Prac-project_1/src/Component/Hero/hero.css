@@ -2,4 +2,57 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #FFF2F3;
+    font-family: montsirat;
+    height: 680px;
+
+}
+
+.hero-itm1{
+    width:580px ;
+    padding-right:80px ;
+    
+}
+
+.hero-heading{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 30px 0px;
+    font-family: sans-serif;
+    line-height: 65px;
+    
+}
+
+.hero-content{
+    padding:0px 300px 30px 0px ;
+    font-size: 20px;
+    color:#737373 ;
+    line-height: 30px;
+}
+
+.btn1{
+    padding: 15px 30px;
+    background-color: #96BB7C;
+    color: white;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn2{
+    padding: 15px 30px;
+    background-color: transparent;
+    color: #96BB7C;
+    border:1px solid #96BB7C;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+hero-itm2{
+    width:600px ;
+    object-fit: fill;
+    padding: 50px 0px;
 }
